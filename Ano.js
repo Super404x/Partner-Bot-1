@@ -58,7 +58,7 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(`  https://discord.gg/kq4KWJnBaw`) ///Link Server Never ///RaWeN
+  message.author.send(`  https://discord.gg/aSywz7vj8M`) ///Link Server Never ///RaWeN
     
   client.channels.get("ID Channel").send(
 `> RaWeN Up | By: <@${message.author.id}> 
@@ -79,4 +79,4 @@ client.user.setGame(`Send Me Linke Your Server | RaWeN Up`)
 
 
 
-client.login("");///FiiX ///Token
+client.login("ODE3MzcyMDI3MzI0NzI3MzE3.YEIjBQ.4CB7jj58yJgtRKlyuAHz0Ii_KdI");///FiiX ///Token
